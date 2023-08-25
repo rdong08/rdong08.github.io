@@ -1,7 +1,8 @@
 ---
-layout: cv
+layout: page
 title: Rui Dong's CV
 ---
+
 # Rui Dong
 Research fellow in Department of Pathology, Massachusetts General Hospital, Harvard Medical School.
 
