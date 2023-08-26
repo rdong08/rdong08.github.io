@@ -3,6 +3,7 @@ layout: page
 title: <p style="text-align: center;">Rui Dong's CV</p>
 ---
 
+# Rui Dong
 Research fellow in Department of Pathology, Massachusetts General Hospital, Harvard Medical School.
 
 <div id="webaddress">
