@@ -1,46 +1,7 @@
 ---
 layout: page
-title: <p style="text-align: center;">Rui Dong's CV</p>
+title: <p style="text-align: center;">Rui Dong's publications</p>
 ---
-
-# Rui Dong
-Research fellow in Department of Pathology, Massachusetts General Hospital, Harvard Medical School.
-
-<div id="webaddress">
-<a href="rdong@mgh.harvard.edu">rdong@mgh.harvard.edu</a>
-</div>
-
-
-### Specialized in
-
-Computational Biology, Transcriptomics, Epigenomics
-
-
-## Education
-
-`2012/09-2017/07`
-__CAS-MPG Partner Institute for Computational Biology, SIBS, CAS, China.__
-
-- **Ph.D.** with Prof. **Li Yang**
-- Major: Computational biology
-
-`2007/09-2011/07`
-__Shandong University, Shandong, China.__
-
-- **B.S.** Major: Biological sciences
-
-
-
-## Awards
-
-`2017` Shanghai Outstanding Graduate Award
-
-`2016` National Scholarship for Outstanding Graduate Student, Ministry of Education of the People's Republic of China
-
-`2016` Zhu Li Yuehua Outstanding Doctoral Scholarship, Chinese Academy of Sciences
-
-`2015` Merit Student, University of Chinese Academy of Sciences
-
 
 ## Publications
 
@@ -51,13 +12,13 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=wcQO0GA
 
 ### **2023**
 
-* Xing YH\#, **Dong R**\#, Lee L, Rengarajan S, Riggi N, Boulay G, Rivera N. M\*. DisP-seq reveals the genome-wide functional organization of DNA-associated disordered proteins. ***Nat. Biotechnol.***, 2023: 1-13.
-* Sanalkumar R\#, **Dong R**\#, Xing YH, Lee L, Iyer S, Letovanec I, Rosa S, Chebib I, Nielsen P, Renella R, Cote G, Choy E, Aryee M, Stegmayer K, Stamenkovic I, Rivera N. M\*, Riggi N\*. Highly connected 3D chromatin networks established by an oncogenic fusion protein shape tumor cell identity. ***Sci. Adv.***, 2023, 9(13): eabo3789.
+* Xing YH\#, **Dong R**\#, Lee L, Rengarajan S, Riggi N, Boulay G, Rivera N. M\*. [DisP-seq reveals the genome-wide functional organization of DNA-associated disordered proteins.](https://www.nature.com/articles/s41587-023-01737-4) ***Nat. Biotechnol.***, 2023: 1-13.
+* Sanalkumar R\#, **Dong R**\#, Xing YH, Lee L, Iyer S, Letovanec I, Rosa S, Chebib I, Nielsen P, Renella R, Cote G, Choy E, Aryee M, Stegmayer K, Stamenkovic I, Rivera N. M\*, Riggi N\*. [Highly connected 3D chromatin networks established by an oncogenic fusion protein shape tumor cell identity.](https://www.science.org/doi/10.1126/sciadv.abo3789) ***Sci. Adv.***, 2023, 9(13): eabo3789.
 
 ### **2022**
 
-* Yasuhara T, Xing YH, Bauer N, Lee L, **Dong R**, Yadav T, Soberman R, Rivera M, Zou L, Condensates induced by transcription inhibition localize active chromatin to nucleoli. ***Mol. Cell***, 2022, 82(15): 2738-2753.
-* Möller E, Praz V, Rajendran S, **Dong R**, Cauderay A, Xing YH, Lee L, Fusco C, Broye L, Cironi L, Iyer S, Rengarajan S, Awad M, Naigles B, Letovanec I, Ormas N, Finzi G, Rosa S, Sessa F, Chebib I, Nielsen G, Digklia A, Spentzos D, Cote G, Choy E, Aryee M, Stamenkovic I, Boulay G, Rivera M, Riggi N. EWSR1-ATF1 dependent 3D connectivity regulates oncogenic and differentiation programs in Clear Cell Sarcoma. ***Nat. Commun.***, 2022, 13(1): 1-18.
+* Yasuhara T, Xing YH, Bauer N, Lee L, **Dong R**, Yadav T, Soberman R, Rivera M, Zou L, [Condensates induced by transcription inhibition localize active chromatin to nucleoli.](https://www.cell.com/molecular-cell/fulltext/S1097-2765\(22\)00444-0) ***Mol. Cell***, 2022, 82(15): 2738-2753.
+* Möller E, Praz V, Rajendran S, **Dong R**, Cauderay A, Xing YH, Lee L, Fusco C, Broye L, Cironi L, Iyer S, Rengarajan S, Awad M, Naigles B, Letovanec I, Ormas N, Finzi G, Rosa S, Sessa F, Chebib I, Nielsen G, Digklia A, Spentzos D, Cote G, Choy E, Aryee M, Stamenkovic I, Boulay G, Rivera M, Riggi N. [EWSR1-ATF1 dependent 3D connectivity regulates oncogenic and differentiation programs in Clear Cell Sarcoma.](https://www.nature.com/articles/s41467-022-29910-4) ***Nat. Commun.***, 2022, 13(1): 1-18.
 
 ### **2021**
                                                                                                                                                                                                                                                                                                                           
