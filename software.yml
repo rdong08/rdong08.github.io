@@ -1,0 +1,29 @@
+<div class="container">
+    <div class="row">
+        <h2>Research interests</h2>
+    <div class="row">
+        <h3>DISPbind: Disorder protein genomic binding analysis toolkit for DisP-seq</h3>
+				<div class="col-lg-3">
+            <img src="/png/softwares/DISPbind.jpeg">
+        </div>
+        <div class="col-lg-9">
+            <p>
+						DISPbind is designed for DisP-seq datasets, providing essential functionalities such as genome mapping, bigwig generation and DisP islands identification.
+						Github: [https://github.com/rdong08/DISPbind](https://github.com/rdong08/DISPbind)
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <h3>GiniClust3: Rare cell identification from large scale single cell RNA-seq datasets</h3>
+				<div class="col-lg-3">
+            <img src="/png/softwares/GiniClust3.jpeg">
+        </div>
+        <div class="col-lg-9">
+            <p>
+						GiniClust3 is specifically tailored for large-scale scRNA-seq dataset for rare cell type identification.
+						Github: [https://github.com/rdong08/GiniClust3](https://github.com/rdong08/GiniClust3)
+            </p>
+        </div>
+    </div>
+    </div>
+</div>
