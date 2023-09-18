@@ -23,9 +23,10 @@ navbar-links:
   About Me: "aboutme"
   Softwares: "software"
   Publications: "publication"
-  Resources:
+  Resources and links:
     - Github: "https://github.com/rdong08"
     - Google scholar: "https://scholar.google.com/citations?user=wcQO0GAAAAAJ&hl"
+    - Research gate: "https://www.researchgate.net/profile/Rui-Dong-15"
 
 ################
 # --- Logo --- #
