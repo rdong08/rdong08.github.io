@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: <p style="text-align: center;">Rui Dong's CV</p>
 ---
 
