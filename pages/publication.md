@@ -1,6 +1,7 @@
 ---
 layout: page
 title: <p style="text-align: center;">Rui Dong's publications</p>
+permalink: /publication/
 ---
 
 ## Publications
