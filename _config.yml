@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Rui Dong's website
+title: Rui Dong's personal website
 
 # Your name to show in the footer
 author: Rui Dong
@@ -20,7 +20,8 @@ author: Rui Dong
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "/"
+  My CV: "aboutme"
   Softwares: "software"
   Publications: "publication"
   Resources and links:
@@ -348,3 +349,6 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+collections:
+  pages:
+    output: true
