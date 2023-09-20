@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <p style="text-align: center;">Rui Dong's CV</p>
+title: Rui Dong's CV
 permalink: /cv/
 ---
 

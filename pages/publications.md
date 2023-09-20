@@ -1,6 +1,6 @@
 ---
-layout: page
-title: <p style="text-align: center;">Rui Dong's publications</p>
+layout: default
+title: Rui Dong's publications
 permalink: /publications/
 ---
 
