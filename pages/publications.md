@@ -4,11 +4,12 @@ title: Rui Dong's publications
 permalink: /publications/
 ---
 
-## Publications
+<div align="center">
+  <h1>Publications</h1>
+</div>
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=wcQO0GAAAAAJ&hl=zh-CN) -->
 You can visit [Google Scholar](https://scholar.google.com/citations?user=wcQO0GAAAAAJ&hl) for more details<br>
-
 \# Co-first authors; \* Corresponding authors
 
 ### **2023**
