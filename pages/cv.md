@@ -4,7 +4,9 @@ title: Rui Dong's CV
 permalink: /cv/
 ---
 
-#<center>Rui Dong</center>
+<div align="center">
+  <h1>Rui Dong</h1>
+</div>
 Research fellow in Department of Pathology, Massachusetts General Hospital, Harvard Medical School.
 
 <div id="webaddress">
