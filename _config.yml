@@ -21,9 +21,9 @@ author: Rui Dong
 
 navbar-links:
   Home: "/"
-  CV: "cv"
-  Softwares: "Softwares"
-  Publications: "publications"
+  cv: "cv"
+  softwares: "softwares"
+  publications: "publications"
   Resources and links:
     - Github: "https://github.com/rdong08"
     - Google scholar: "https://scholar.google.com/citations?user=wcQO0GAAAAAJ&hl"
