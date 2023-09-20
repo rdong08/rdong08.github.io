@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <p style="text-align: center;">Rui Dong's CV</p>
-permalink: /aboutme/
+permalink: /cv/
 ---
 
 # Rui Dong
